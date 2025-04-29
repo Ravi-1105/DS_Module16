@@ -22,8 +22,8 @@ To write a C function to traverse the elements in a B+ Tree.
 ```
 /*
 Program to traverse the elements in a B+ Tree.
-Developed by: HARITHA RAMESH
-RegisterNumber:  212223100011
+Developed by: RAVIVARMAN G S
+RegisterNumber:  212223100044
 */
 /*struct B_TreeNode 
 { 
